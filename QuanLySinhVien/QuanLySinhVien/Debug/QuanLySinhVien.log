@@ -1,0 +1,4 @@
+﻿  QuanLySinhVien.cpp
+C:\Users\ABC\source\repos\QuanLySinhVien\QuanLySinhVien\QuanLySinhVien.cpp(16,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ABC\source\repos\QuanLySinhVien\QuanLySinhVien\QuanLySinhVien.cpp(190): warning C4715: 'thoatchuongtrinh': not all control paths return a value
+  QuanLySinhVien.vcxproj -> C:\Users\ABC\source\repos\QuanLySinhVien\Debug\QuanLySinhVien.exe

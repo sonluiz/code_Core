@@ -1,0 +1,4 @@
+﻿  DoiTuongFile.cpp
+  thongtinPerson.txt
+C:\Users\ABC\source\repos\FileDemo\FileDemo\thongtinPerson.txt(1,1): error C2059: syntax error: 'constant'
+  Generating Code...

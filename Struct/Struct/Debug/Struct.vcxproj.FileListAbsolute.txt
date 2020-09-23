@@ -1,0 +1,2 @@
+C:\Users\ABC\source\repos\Struct\Debug\Struct.exe.lastcodeanalysissucceeded
+C:\Users\ABC\source\repos\Struct\Struct\Debug\NativeCodeAnalysis.read.1.tlog
